@@ -83,7 +83,7 @@ Dynamic Programming Result: 55
 ### Screenshot
 Below is a screenshot of the Fibonacci Calculator in action:
 
-![Fibonacci Calculator Screenshot](images/screenshot.png)  
+![Fibonacci Calculator Screenshot](images/screenshot.jpeg)  
 
 
 ### Demo Video
